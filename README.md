@@ -1,6 +1,6 @@
 # NLP_Tales_from_the_Crypto
 
-![Sentimental.jpeg](../Images/Sentimental.jpeg)
+![sentimental.jpeg](../Images/sentimental.jpeg)
 
 ## Background
 
