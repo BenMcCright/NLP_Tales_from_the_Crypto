@@ -1,6 +1,6 @@
 # NLP_Tales_from_the_Crypto
 
-![Stock Sentiment](../Images/Sentimental.jpeg)
+![Sentimental.jpeg](../Images/Sentimental.jpeg)
 
 ## Background
 
@@ -32,7 +32,6 @@ Although Bitcoin had the highest mean positive score, Ethereum had the highest c
 ---
 
 ## Natural Language Processing
-
 ### Bitcoin Word Cloud
 ![bitcoin_wordcloud.png](Images/bitcoin_wordcloud.png)
 
